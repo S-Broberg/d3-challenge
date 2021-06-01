@@ -302,4 +302,3 @@ function writeAnalysis(xAxis, yAxis) {
   }
   analysisText.innerHTML = answer;
 };
-© 2021 GitHub, Inc.
